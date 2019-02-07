@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\RoboMaster2019\Project\IMU6050\Hardware\IMU6050.PcbDoc
+Date         : 2019/1/10
+Time         : 16:05:07
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 94
+    Connections routed, 94
+    Connections remaining, 0
+count : 4

@@ -1,0 +1,24 @@
+Bill of Material for 
+On 2019/1/12 at 13:22:04
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 103                 CAP-0603-L       1    C3                                                
+ 104                 CAP-0603-L      10    C2, C4, C7, C8, C10, C11, C13                      
+                                           C14, C15, C16
+ 105                 CAP-0603-L       2    C1, C12                                           
+ 106                 CAP-0805-L       2    C5, C6                                            
+ 10K                 R-0603-L         5    R1, R2, R3, R4, R6                                
+ 2.2nF               CAP-0603-L       1    C9                                                
+ 4.7K                R-0603-L         2    R5, R7                                            
+ 8MHz                CSTCE_G(A)村田晶振    1    X1                                                
+ D3.9                SOD_323          1    D2                                                
+ D5.1                SOD_323          1    D1                                                
+ GH04                SM04B-GHS-TB     1    P1                           04GH座                
+ LED_G               LED_0603-L       1    D4                                                
+ LED_R               LED_0603-L       1    D3                                                
+ MAX3051             SOT-23-8         1    U4                           CAN控制器               
+ Molex-53261-0671    Molex-53261-0671    1    P2                           1.25mm Pitch PicoBlade Header 
+ MPU6050             QFN-24-4x4       1    U1                           Sensor Motion        
+ STM32F103T8U6       STM-VFQFPN36_N    1    U3                           ARM Cortex-M3 32-bit MCU, 64 KB Flash, 20 KB Internal RAM, 26 I/Os, 36-pin VFQFPN, -40 to 85 degC, Tray 
+ TPS70933DBVR        SOT-23-5         1    U2                           具有使能端的 150-mA 超低 Iq LDO 

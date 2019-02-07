@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VCC_5V Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=USART1_RX Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D6-1
+Removed Pin From Net: NetName=USART1_TX Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=D7-1
+Removed Pin From Net: NetName=SWDIO Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D8-1
+Removed Pin From Net: NetName=SWCLK Pin=D8-2
+Removed Pin From Net: NetName=VCC_5V Pin=F1-2
+Removed Pin From Net: NetName=SWCLK Pin=R6-2
+Removed Pin From Net: NetName=SWDIO Pin=R8-2
+Removed Pin From Net: NetName=USART1_TX Pin=R9-2
+Removed Pin From Net: NetName=USART1_RX Pin=R10-2
+Removed Pin From Net: NetName=VCC_5V Pin=U2-3
+Removed Pin From Net: NetName=LED_R Pin=U3-16
+Removed Pin From Net: NetName=LED_G Pin=U3-17
+Removed Member From Class: ClassName=Sheet1 Member=D5
+Removed Member From Class: ClassName=Sheet1 Member=D6
+Removed Member From Class: ClassName=Sheet1 Member=D7
+Removed Member From Class: ClassName=Sheet1 Member=D8
+Removed Member From Class: ClassName=Sheet1 Member=F1
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Change Component Comment : Designator=R6 Old Comment=100R New Comment=10K
+Added Pin To Net: NetName=VCC_5V Pin=P1-1
+Added Pin To Net: NetName=VCC_5V Pin=P2-1
+Added Pin To Net: NetName=SWCLK Pin=P2-3
+Added Pin To Net: NetName=SWDIO Pin=P2-4
+Added Pin To Net: NetName=USART1_TX Pin=P2-5
+Added Pin To Net: NetName=USART1_RX Pin=P2-6
+Added Pin To Net: NetName=VCC_5V Pin=R6-2
+Added Pin To Net: NetName=LED_R Pin=U3-13
+Added Pin To Net: NetName=LED_G Pin=U3-14
+Change Net Name : Old Net Name=VCC_5V New Net Name=VCC_IN
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R6-1
+Added Pin To Net: NetName=NetD1_2 Pin=U2-3
+Added Net: Name=NetD1_2

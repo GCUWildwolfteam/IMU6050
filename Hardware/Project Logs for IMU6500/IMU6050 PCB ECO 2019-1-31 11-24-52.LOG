@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC_IN Pin=P1-4
+Removed Pin From Net: NetName=VCC_IN Pin=P2-1
+Removed Pin From Net: NetName=VCC_IN Pin=R6-2
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Change Component Comment : Designator=D1 Old Comment=D5.1 New Comment=Z5V6
+Added Component: Designator=F1(Fuse_0805)
+Added Pin To Net: NetName=VCC_IN Pin=D1-2
+Added Pin To Net: NetName=VCC_IN Pin=F1-2
+Added Pin To Net: NetName=VCC_IN Pin=U2-3
+Change Net Name : Old Net Name=VCC_IN New Net Name=NetC6_2
+Added Pin To Net: NetName=VCC_IN Pin=F1-1
+Added Pin To Net: NetName=VCC_IN Pin=P1-4
+Added Pin To Net: NetName=VCC_IN Pin=P2-1
+Added Net: Name=VCC_IN
+Added Member To Class: ClassName=Sheet1 Member=Component F1 200mA

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=LED_R Pin=D3-2
+Removed Pin From Net: NetName=LED_G Pin=D4-2
+Removed Member From Class: ClassName=Sheet1 Member=D4
+Change Component Footprint: Designator=D3 Old Footprint=LED_0603-L New Footprint=LED_1616
+Change Component Comment : Designator=D3 Old Comment=LED_R New Comment=LED
+Added Pin To Net: NetName=LED_R Pin=D3-1
+Added Pin To Net: NetName=LED_G Pin=D3-2
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Pin To Net: NetName=NetD3_3 Pin=R7-2
+Added Net: Name=NetD3_3
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD3_4 Pin=R5-2
+Added Net: Name=NetD3_4

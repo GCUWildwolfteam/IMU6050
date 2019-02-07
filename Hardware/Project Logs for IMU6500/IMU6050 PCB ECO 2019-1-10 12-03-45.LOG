@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=F1 Old Footprint=Fuse_0805 New Footprint=R-0603
+Change Component Footprint: Designator=D3 Old Footprint=LED-0805 New Footprint=LED_0603-L
+Change Component Footprint: Designator=D4 Old Footprint=LED-0805 New Footprint=LED_0603-L

@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [IMU6500.PrjPcb]
+   Generated File[Sheet1.BOM]
+   Generated File[Sheet1.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 13:22:05 On 2019/1/12

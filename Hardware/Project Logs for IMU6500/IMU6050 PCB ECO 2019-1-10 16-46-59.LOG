@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC_IN Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=CAN_H Pin=P1-3
+Removed Pin From Net: NetName=CAN_L Pin=P1-4
+Change Component Footprint: Designator=P1 Old Footprint=Molex-53261-0471 New Footprint=SM04B-GHS-TB
+Change Component Comment : Designator=P1 Old Comment=Molex-53261-0471 New Comment=GH04
+Added Pin To Net: NetName=CAN_L Pin=P1-1
+Added Pin To Net: NetName=CAN_H Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=VCC_IN Pin=P1-4
